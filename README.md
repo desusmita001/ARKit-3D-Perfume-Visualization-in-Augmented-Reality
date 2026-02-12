@@ -7,7 +7,7 @@ ARKit 3D Perfume Visualization in Augmented Reality Mockup
 Experience a realistic 3D **Perfume Bottle** rendered in real-world space using **ARKit** and **SceneKit**.  
 This iOS app demonstrates interactive 3D model loading, placement, and rendering with Apple’s **ARKit framework**.
 
----
+
 
 ## ✨ Features
 - Displays a **3D `.usdz` perfume model** using ARKit + SceneKit  
@@ -33,4 +33,4 @@ This iOS app demonstrates interactive 3D model loading, placement, and rendering
 |:----------------------------------:|:----------------------------------:|
 | *Rotation and focus* | *Real-world scale and positioning* |
 
----
+

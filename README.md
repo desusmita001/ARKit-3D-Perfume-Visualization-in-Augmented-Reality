@@ -1,8 +1,8 @@
-# EssenceAR-ARKit-3D-Perfume-Visualization-in-Augmented-Reality
-EssenceAR — ARKit 3D Perfume Visualization in Augmented Reality
+# ARKit-3D-Perfume-Visualization-in-Augmented-Reality Mockup
+ARKit 3D Perfume Visualization in Augmented Reality Mockup
 
 
-# 🌸 EssenceAR — ARKit 3D Perfume Visualization in Augmented Reality
+# ARKit 3D Perfume Visualization in Augmented Reality
 
 Experience a realistic 3D **Perfume Bottle** rendered in real-world space using **ARKit** and **SceneKit**.  
 This iOS app demonstrates interactive 3D model loading, placement, and rendering with Apple’s **ARKit framework**.
@@ -17,13 +17,13 @@ This iOS app demonstrates interactive 3D model loading, placement, and rendering
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 - **Language:** Swift  
 - **Frameworks:** ARKit, SceneKit, UIKit  
 - **3D Model:** `Perfume.usdz`
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | ![Screenshot 1](screenshots/1.jpg) | ![Screenshot 2](screenshots/2.jpg) |
 |:----------------------------------:|:----------------------------------:|
